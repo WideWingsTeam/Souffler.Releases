@@ -2,7 +2,20 @@
 
 ## Release Notes
 
-New version with record feature in beta. The version is just to test auto updating.
+Added authentication window that gives you opportunity to fill settings that will give ai model additional context.
+
+---
+
+### [0.2.1] - 2025-05-23
+#### Added
+- Settings
+- Authentication
+
+#### Changed
+- 
+
+#### Fixed
+- 
 
 ---
 
