@@ -2,7 +2,19 @@
 
 ## Release Notes
 
-Added authentication window that gives you opportunity to fill settings that will give ai model additional context.
+Update status now visible
+
+---
+
+### [0.2.2] - 2025-05-26
+#### Added
+- Audo update progress popup
+
+#### Changed
+- 
+
+#### Fixed
+- 
 
 ---
 
