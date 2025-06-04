@@ -2,7 +2,19 @@
 
 ## Release Notes
 
-Update status now visible
+Made actual audio trascribing and answering
+
+---
+
+### [0.3.1] - 2025-06-04
+#### Added
+- Actual speech processing
+
+#### Changed
+- 
+
+#### Fixed
+- 
 
 ---
 
