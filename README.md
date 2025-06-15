@@ -2,7 +2,20 @@
 
 ## Release Notes
 
-Made actual audio trascribing and answering
+Some minor interface fixes
+
+---
+
+### [0.3.2] - 2025-06-15
+#### Added
+- 
+
+#### Changed
+- 
+
+#### Fixed
+- Scroll in central column
+- Floating column width
 
 ---
 
