@@ -2,6 +2,22 @@
 
 ## Release Notes
 
+Cosmetic changes
+
+---
+
+### [0.3.2] - 2025-07-05
+#### Added
+- Session limit modal
+
+#### Changed
+- New logo applied
+
+#### Fixed
+- 
+
+---
+
 Some minor interface fixes
 
 ---
